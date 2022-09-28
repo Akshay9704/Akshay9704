@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Bhasin</h1>
-<h3 align="center">Frontend Developer.</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay9704?tab=repositories](https://github.com/Akshay9704?tab=repositories)
